@@ -1,0 +1,61 @@
+customer_id,name,email,country,tier,signup_date
+1,Jordan Lopez,jordan.lopez1@example.com,Australia,Starter,2025-03-04
+2,Alex Rodriguez,alex.rodriguez2@example.com,United States,Professional,2026-02-06
+3,Dakota Jones,dakota.jones3@example.com,United States,Enterprise,2025-04-29
+4,Alex Johnson,alex.johnson4@example.com,United Kingdom,Free,2025-07-01
+5,Morgan Jones,morgan.jones5@example.com,India,Free,2025-08-01
+6,Jordan Hernandez,jordan.hernandez6@example.com,Germany,Free,2025-10-05
+7,Taylor Davis,taylor.davis7@example.com,India,Professional,2026-02-16
+8,Jordan Johnson,jordan.johnson8@example.com,Japan,Free,2026-04-02
+9,Casey Smith,casey.smith9@example.com,Japan,Professional,2026-03-04
+10,Jordan Williams,jordan.williams10@example.com,India,Starter,2025-10-21
+11,Jordan Smith,jordan.smith11@example.com,France,Starter,2025-05-29
+12,Alex Jones,alex.jones12@example.com,Canada,Free,2025-12-11
+13,Jordan Johnson,jordan.johnson13@example.com,United States,Free,2026-03-29
+14,Chris Rodriguez,chris.rodriguez14@example.com,United States,Enterprise,2025-08-02
+15,Quinn Miller,quinn.miller15@example.com,India,Enterprise,2025-11-17
+16,Morgan Brown,morgan.brown16@example.com,Australia,Free,2025-05-02
+17,Morgan Miller,morgan.miller17@example.com,Japan,Professional,2026-04-23
+18,Casey Garcia,casey.garcia18@example.com,Japan,Starter,2026-04-16
+19,Alex Rodriguez,alex.rodriguez19@example.com,Germany,Professional,2025-09-12
+20,Alex Garcia,alex.garcia20@example.com,Australia,Professional,2025-05-31
+21,Reese Martinez,reese.martinez21@example.com,Japan,Enterprise,2025-08-02
+22,Riley Martinez,riley.martinez22@example.com,Australia,Free,2026-01-12
+23,Sam Rodriguez,sam.rodriguez23@example.com,Australia,Professional,2026-03-07
+24,Sam Davis,sam.davis24@example.com,Australia,Free,2025-10-23
+25,Alex Rodriguez,alex.rodriguez25@example.com,Australia,Free,2025-09-29
+26,Jordan Lopez,jordan.lopez26@example.com,Japan,Enterprise,2026-03-05
+27,Taylor Davis,taylor.davis27@example.com,Japan,Free,2026-02-20
+28,Casey Miller,casey.miller28@example.com,Canada,Free,2025-05-13
+29,Alex Johnson,alex.johnson29@example.com,Japan,Free,2025-12-22
+30,Jordan Rodriguez,jordan.rodriguez30@example.com,France,Starter,2025-05-15
+31,Jordan Smith,jordan.smith31@example.com,Canada,Professional,2025-05-24
+32,Alex Williams,alex.williams32@example.com,United Kingdom,Free,2025-11-27
+33,Casey Williams,casey.williams33@example.com,India,Starter,2025-02-15
+34,Alex Lopez,alex.lopez34@example.com,France,Starter,2025-07-28
+35,Dakota Williams,dakota.williams35@example.com,India,Enterprise,2025-04-06
+36,Reese Martinez,reese.martinez36@example.com,Germany,Enterprise,2025-04-15
+37,Sam Davis,sam.davis37@example.com,Australia,Enterprise,2025-05-20
+38,Jordan Rodriguez,jordan.rodriguez38@example.com,Australia,Professional,2025-07-25
+39,Pat Davis,pat.davis39@example.com,India,Starter,2025-06-30
+40,Morgan Williams,morgan.williams40@example.com,Australia,Starter,2026-01-22
+41,Riley Miller,riley.miller41@example.com,Canada,Enterprise,2025-06-24
+42,Jordan Miller,jordan.miller42@example.com,France,Professional,2025-05-11
+43,Reese Martinez,reese.martinez43@example.com,United States,Professional,2025-11-23
+44,Taylor Martinez,taylor.martinez44@example.com,Canada,Enterprise,2025-08-09
+45,Riley Garcia,riley.garcia45@example.com,Germany,Free,2025-07-24
+46,Morgan Brown,morgan.brown46@example.com,United Kingdom,Professional,2025-07-12
+47,Riley Miller,riley.miller47@example.com,France,Free,2025-12-27
+48,Chris Miller,chris.miller48@example.com,Australia,Starter,2025-11-22
+49,Jordan Hernandez,jordan.hernandez49@example.com,Germany,Professional,2025-06-18
+50,Jordan Rodriguez,jordan.rodriguez50@example.com,India,Starter,2026-01-16
+51,Jordan Hernandez,jordan.hernandez51@example.com,United Kingdom,Professional,2026-03-08
+52,Alex Johnson,alex.johnson52@example.com,India,Starter,2026-03-02
+53,Dakota Lopez,dakota.lopez53@example.com,Australia,Professional,2025-08-11
+54,Pat Lopez,pat.lopez54@example.com,Germany,Free,2025-05-15
+55,Casey Martinez,casey.martinez55@example.com,United States,Professional,2025-12-29
+56,Taylor Smith,taylor.smith56@example.com,France,Free,2025-03-02
+57,Casey Johnson,casey.johnson57@example.com,Germany,Free,2026-04-17
+58,Sam Smith,sam.smith58@example.com,Australia,Starter,2026-02-07
+59,Riley Jones,riley.jones59@example.com,Australia,Starter,2026-01-20
+60,Casey Rodriguez,casey.rodriguez60@example.com,Germany,Professional,2026-01-18

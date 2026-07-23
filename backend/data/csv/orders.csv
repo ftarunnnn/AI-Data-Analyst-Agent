@@ -1,0 +1,181 @@
+order_id,customer_id,order_date,total_amount,status,payment_method
+1,59,2026-03-20 00:00:00,299.0,Completed,Credit Card
+2,4,2026-01-27 08:00:00,1074.0,Refunded,PayPal
+3,27,2026-01-30 13:00:00,725.0,Completed,Credit Card
+4,32,2026-06-18 15:00:00,1075.0,Completed,Bank Wire
+5,27,2026-07-09 21:00:00,646.0,Processing,Credit Card
+6,25,2026-04-04 00:00:00,1902.0,Completed,PayPal
+7,15,2026-03-24 03:00:00,846.0,Completed,Stripe
+8,53,2026-02-24 03:00:00,1546.0,Refunded,Bank Wire
+9,6,2026-06-01 09:00:00,1646.0,Completed,PayPal
+10,32,2026-02-22 15:00:00,996.0,Completed,Stripe
+11,57,2026-05-26 06:00:00,1623.0,Processing,Bank Wire
+12,47,2026-06-15 06:00:00,1047.0,Refunded,Stripe
+13,26,2026-02-07 21:00:00,747.0,Completed,Credit Card
+14,14,2026-04-30 06:00:00,1623.0,Completed,Stripe
+15,12,2026-06-29 09:00:00,2192.0,Processing,Bank Wire
+16,18,2026-01-22 14:00:00,1492.0,Completed,Bank Wire
+17,36,2026-03-06 06:00:00,1055.0,Completed,Stripe
+18,25,2026-02-06 03:00:00,698.0,Processing,Bank Wire
+19,14,2026-03-17 07:00:00,3141.0,Completed,Credit Card
+20,5,2026-04-11 05:00:00,1501.0,Completed,PayPal
+21,35,2026-04-10 11:00:00,895.0,Completed,Bank Wire
+22,53,2026-03-26 10:00:00,2591.0,Completed,Credit Card
+23,3,2026-07-17 20:00:00,1943.0,Completed,PayPal
+24,42,2026-05-14 07:00:00,498.0,Processing,Stripe
+25,42,2026-01-03 17:00:00,1884.0,Processing,PayPal
+26,37,2026-05-11 08:00:00,1581.0,Completed,PayPal
+27,20,2026-02-15 13:00:00,497.0,Completed,PayPal
+28,38,2026-05-18 18:00:00,49.0,Refunded,Stripe
+29,43,2026-04-17 22:00:00,797.0,Completed,Bank Wire
+30,29,2026-04-06 07:00:00,1393.0,Refunded,Credit Card
+31,22,2026-05-07 10:00:00,129.0,Completed,Stripe
+32,44,2026-05-29 04:00:00,1393.0,Processing,Bank Wire
+33,28,2026-01-08 19:00:00,298.0,Refunded,Stripe
+34,9,2026-04-27 02:00:00,199.0,Refunded,Bank Wire
+35,31,2026-07-02 20:00:00,546.0,Completed,Credit Card
+36,60,2026-02-19 19:00:00,1346.0,Completed,PayPal
+37,55,2026-02-09 17:00:00,1256.0,Completed,Credit Card
+38,45,2026-07-01 14:00:00,296.0,Completed,Stripe
+39,11,2026-03-08 09:00:00,1195.0,Completed,Stripe
+40,8,2026-03-26 11:00:00,1852.0,Completed,PayPal
+41,1,2026-02-16 22:00:00,427.0,Completed,Credit Card
+42,14,2026-02-26 08:00:00,1176.0,Completed,Bank Wire
+43,37,2026-01-22 01:00:00,448.0,Processing,Credit Card
+44,17,2026-05-21 20:00:00,1194.0,Processing,PayPal
+45,46,2026-01-11 19:00:00,387.0,Completed,PayPal
+46,4,2026-03-25 13:00:00,2122.0,Refunded,Bank Wire
+47,10,2026-04-07 03:00:00,447.0,Completed,Bank Wire
+48,15,2026-05-16 13:00:00,597.0,Completed,Bank Wire
+49,38,2026-02-05 08:00:00,698.0,Completed,Credit Card
+50,60,2026-05-30 21:00:00,1494.0,Completed,Credit Card
+51,42,2026-03-13 18:00:00,328.0,Completed,Stripe
+52,24,2026-07-01 15:00:00,1603.0,Processing,Credit Card
+53,39,2026-04-16 22:00:00,1643.0,Completed,PayPal
+54,51,2026-04-24 04:00:00,2242.0,Completed,Stripe
+55,18,2026-02-18 01:00:00,499.0,Completed,Bank Wire
+56,1,2026-04-21 13:00:00,147.0,Completed,Bank Wire
+57,53,2026-02-16 10:00:00,1445.0,Completed,Stripe
+58,51,2026-06-02 02:00:00,597.0,Completed,PayPal
+59,15,2026-04-27 19:00:00,1683.0,Refunded,Stripe
+60,49,2026-05-05 04:00:00,199.0,Completed,Bank Wire
+61,58,2026-03-01 08:00:00,1383.0,Completed,Bank Wire
+62,31,2026-06-11 06:00:00,1326.0,Completed,Stripe
+63,21,2026-07-01 08:00:00,276.0,Completed,PayPal
+64,31,2026-02-14 14:00:00,1743.0,Refunded,PayPal
+65,26,2026-07-06 11:00:00,2422.0,Completed,Credit Card
+66,5,2026-04-20 06:00:00,2493.0,Completed,Stripe
+67,26,2026-02-19 04:00:00,1403.0,Completed,Bank Wire
+68,25,2026-05-27 06:00:00,348.0,Processing,Credit Card
+69,44,2026-06-26 18:00:00,1197.0,Completed,Bank Wire
+70,6,2026-02-21 22:00:00,1044.0,Completed,Credit Card
+71,48,2026-05-26 19:00:00,1046.0,Processing,Stripe
+72,35,2026-07-14 15:00:00,956.0,Completed,Stripe
+73,12,2026-04-22 10:00:00,299.0,Completed,Credit Card
+74,51,2026-03-19 05:00:00,1595.0,Completed,PayPal
+75,24,2026-05-21 17:00:00,1195.0,Refunded,Stripe
+76,53,2026-05-06 11:00:00,547.0,Refunded,Credit Card
+77,10,2026-01-29 09:00:00,2541.0,Refunded,PayPal
+78,9,2026-02-03 09:00:00,1544.0,Completed,Bank Wire
+79,41,2026-01-19 20:00:00,1006.0,Processing,PayPal
+80,8,2026-06-07 19:00:00,1083.0,Completed,PayPal
+81,54,2026-05-21 22:00:00,1892.0,Completed,Bank Wire
+82,56,2026-02-09 02:00:00,1692.0,Completed,Credit Card
+83,2,2026-03-22 02:00:00,1005.0,Completed,Stripe
+84,24,2026-07-07 09:00:00,536.0,Completed,Stripe
+85,10,2026-07-02 06:00:00,1752.0,Processing,Stripe
+86,26,2026-06-05 16:00:00,596.0,Completed,Stripe
+87,40,2026-06-18 04:00:00,1196.0,Completed,PayPal
+88,42,2026-06-29 21:00:00,1134.0,Completed,Credit Card
+89,22,2026-02-18 08:00:00,995.0,Completed,Credit Card
+90,5,2026-02-18 20:00:00,785.0,Completed,PayPal
+91,54,2026-01-24 23:00:00,2142.0,Completed,PayPal
+92,18,2026-06-14 05:00:00,1047.0,Completed,Bank Wire
+93,30,2026-07-20 07:00:00,976.0,Refunded,Bank Wire
+94,8,2026-06-09 09:00:00,1284.0,Completed,Bank Wire
+95,11,2026-04-25 00:00:00,1326.0,Completed,Bank Wire
+96,8,2026-05-05 22:00:00,1296.0,Completed,Stripe
+97,20,2026-02-22 14:00:00,597.0,Processing,Stripe
+98,11,2026-01-04 04:00:00,2202.0,Refunded,Credit Card
+99,55,2026-01-24 06:00:00,2045.0,Refunded,Credit Card
+100,13,2026-01-04 18:00:00,1396.0,Completed,Bank Wire
+101,41,2026-02-16 17:00:00,1093.0,Completed,Credit Card
+102,48,2026-07-17 00:00:00,1943.0,Completed,Bank Wire
+103,18,2026-02-03 03:00:00,2343.0,Refunded,Credit Card
+104,5,2026-06-23 12:00:00,846.0,Completed,Bank Wire
+105,19,2026-04-12 15:00:00,499.0,Completed,Stripe
+106,7,2026-02-23 20:00:00,1096.0,Refunded,PayPal
+107,12,2026-03-26 22:00:00,1242.0,Completed,Bank Wire
+108,51,2026-05-22 13:00:00,447.0,Processing,Bank Wire
+109,8,2026-05-05 19:00:00,1422.0,Completed,Bank Wire
+110,49,2026-07-05 18:00:00,1395.0,Completed,Bank Wire
+111,37,2026-05-03 19:00:00,2692.0,Completed,Stripe
+112,6,2026-04-08 08:00:00,674.0,Processing,Credit Card
+113,4,2026-03-07 06:00:00,695.0,Processing,Credit Card
+114,40,2026-02-12 13:00:00,3100.0,Completed,Credit Card
+115,19,2026-06-25 03:00:00,147.0,Processing,PayPal
+116,7,2026-01-13 17:00:00,2052.0,Completed,Bank Wire
+117,15,2026-06-01 07:00:00,2490.0,Refunded,Credit Card
+118,53,2026-04-20 16:00:00,744.0,Refunded,Credit Card
+119,30,2026-05-07 15:00:00,1253.0,Processing,PayPal
+120,38,2026-06-08 18:00:00,2841.0,Completed,PayPal
+121,5,2026-04-23 02:00:00,405.0,Refunded,Stripe
+122,26,2026-01-06 19:00:00,1046.0,Completed,Stripe
+123,12,2026-07-05 11:00:00,1424.0,Completed,Stripe
+124,41,2026-02-20 14:00:00,705.0,Processing,PayPal
+125,7,2026-06-22 17:00:00,2392.0,Completed,Bank Wire
+126,20,2026-05-31 08:00:00,387.0,Completed,Credit Card
+127,1,2026-07-08 13:00:00,1822.0,Completed,PayPal
+128,41,2026-07-09 09:00:00,499.0,Processing,Credit Card
+129,12,2026-02-22 21:00:00,897.0,Completed,Credit Card
+130,2,2026-02-10 19:00:00,1629.0,Completed,PayPal
+131,6,2026-05-02 07:00:00,2792.0,Processing,PayPal
+132,22,2026-07-03 10:00:00,998.0,Completed,Credit Card
+133,19,2026-03-28 07:00:00,884.0,Completed,Credit Card
+134,29,2026-04-30 12:00:00,597.0,Refunded,Credit Card
+135,50,2026-06-19 22:00:00,627.0,Completed,PayPal
+136,45,2026-07-01 20:00:00,648.0,Refunded,Credit Card
+137,35,2026-03-09 09:00:00,897.0,Completed,PayPal
+138,13,2026-03-26 13:00:00,1495.0,Refunded,PayPal
+139,32,2026-02-11 07:00:00,1295.0,Completed,PayPal
+140,31,2026-01-01 06:00:00,1645.0,Completed,Credit Card
+141,26,2026-02-11 10:00:00,2044.0,Completed,Bank Wire
+142,20,2026-01-04 19:00:00,1683.0,Completed,PayPal
+143,6,2026-06-26 12:00:00,826.0,Completed,Bank Wire
+144,26,2026-06-07 21:00:00,2492.0,Completed,Stripe
+145,55,2026-07-12 05:00:00,1273.0,Processing,Stripe
+146,26,2026-06-09 07:00:00,647.0,Completed,Bank Wire
+147,30,2026-02-03 01:00:00,498.0,Completed,PayPal
+148,32,2026-02-13 03:00:00,1393.0,Refunded,Credit Card
+149,44,2026-03-22 20:00:00,1344.0,Completed,Credit Card
+150,21,2026-05-26 09:00:00,2242.0,Completed,Bank Wire
+151,14,2026-06-29 10:00:00,1296.0,Processing,Bank Wire
+152,29,2026-04-04 03:00:00,2130.0,Processing,Credit Card
+153,60,2026-01-01 02:00:00,448.0,Completed,Bank Wire
+154,22,2026-01-19 04:00:00,1254.0,Completed,Bank Wire
+155,2,2026-06-15 05:00:00,1493.0,Refunded,Credit Card
+156,13,2026-07-17 00:00:00,1434.0,Refunded,Bank Wire
+157,57,2026-06-19 01:00:00,597.0,Completed,Credit Card
+158,31,2026-01-25 10:00:00,976.0,Completed,Credit Card
+159,6,2026-07-05 13:00:00,946.0,Completed,Bank Wire
+160,29,2026-03-24 10:00:00,696.0,Completed,Stripe
+161,36,2026-01-28 20:00:00,3291.0,Processing,Credit Card
+162,10,2026-02-13 07:00:00,825.0,Processing,Credit Card
+163,27,2026-04-22 19:00:00,1096.0,Completed,Bank Wire
+164,40,2026-06-04 17:00:00,2030.0,Processing,Bank Wire
+165,29,2026-04-30 04:00:00,586.0,Processing,PayPal
+166,8,2026-06-25 21:00:00,2330.0,Completed,Stripe
+167,52,2026-01-27 17:00:00,2942.0,Completed,PayPal
+168,13,2026-03-07 04:00:00,876.0,Processing,Bank Wire
+169,2,2026-03-20 01:00:00,557.0,Processing,Bank Wire
+170,46,2026-02-12 08:00:00,149.0,Completed,Bank Wire
+171,18,2026-05-19 12:00:00,1051.0,Completed,PayPal
+172,22,2026-06-30 21:00:00,785.0,Processing,Credit Card
+173,29,2026-03-27 17:00:00,845.0,Processing,Credit Card
+174,2,2026-06-03 18:00:00,98.0,Processing,Stripe
+175,57,2026-07-14 18:00:00,2202.0,Completed,PayPal
+176,33,2026-06-24 02:00:00,2231.0,Completed,PayPal
+177,1,2026-03-02 12:00:00,1974.0,Completed,PayPal
+178,20,2026-04-17 03:00:00,1894.0,Refunded,Credit Card
+179,42,2026-05-19 17:00:00,1543.0,Completed,Stripe
+180,55,2026-01-23 12:00:00,698.0,Completed,Bank Wire

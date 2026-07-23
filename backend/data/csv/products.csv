@@ -1,0 +1,9 @@
+product_id,name,category_id,price,cost
+1,Aether Analytics Pro,1,299.0,45.0
+2,Aether Data Agent Enterprise,3,499.0,80.0
+3,Cloud Storage Node 1TB,2,49.0,10.0
+4,API Rate Limit Buster,2,129.0,20.0
+5,CyberGuard Shield,4,199.0,30.0
+6,Data Pipeline Sync Pro,5,349.0,50.0
+7,Vector Index Accelerator,3,249.0,40.0
+8,SQL Query Optimizer,1,149.0,25.0
